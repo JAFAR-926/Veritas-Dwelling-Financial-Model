@@ -1,3 +1,5 @@
+<img width="1552" height="677" alt="Screenshot 2026-02-25 134501" src="https://github.com/user-attachments/assets/ad74eb25-853a-4eba-873c-7609ba0f134b" />
+
 # Veritas-Dwelling-Financial-Model
 Veritas Dwellings is a warehouse leasing company with a presence in 32 countries. The core business is the leasing of warehouse space to large corporations. The Company also earns auxiliary revenue from renting the grounds in the weekends for private events.
 This project is a fully integrated three-statement financial model built for Veritas Dwellings, a global warehouse leasing company operating in 32 countries. The company’s primary business involves leasing warehouse space to large corporations, with additional auxiliary revenue generated from weekend ground rentals for private and commercial events.
